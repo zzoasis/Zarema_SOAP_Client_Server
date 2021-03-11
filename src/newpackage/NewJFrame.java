@@ -41,6 +41,7 @@ public class NewJFrame extends javax.swing.JFrame {
         jLabel2 = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Визуальная клиент-серверная программа на основе технологии SOAP");
         setResizable(false);
         getContentPane().setLayout(null);
 
@@ -88,7 +89,7 @@ public class NewJFrame extends javax.swing.JFrame {
         jTextFieldAddress.setFont(new java.awt.Font("Times New Roman", 0, 20)); // NOI18N
         jTextFieldAddress.setText("http://localhost:1111/zarema/soap");
         getContentPane().add(jTextFieldAddress);
-        jTextFieldAddress.setBounds(90, 400, 280, 25);
+        jTextFieldAddress.setBounds(90, 400, 290, 25);
 
         jButtonClear.setFont(new java.awt.Font("Times New Roman", 0, 20)); // NOI18N
         jButtonClear.setText("Очистить");
