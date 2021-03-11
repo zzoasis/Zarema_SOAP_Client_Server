@@ -63,7 +63,7 @@ public class NewJFrame extends javax.swing.JFrame {
         getContentPane().add(jLabelX);
         jLabelX.setBounds(30, 400, 58, 24);
 
-        jLabelResult.setFont(new java.awt.Font("Times New Roman", 1, 20)); // NOI18N
+        jLabelResult.setFont(new java.awt.Font("Times New Roman", 3, 20)); // NOI18N
         jLabelResult.setText("Ответ: y = ");
         getContentPane().add(jLabelResult);
         jLabelResult.setBounds(410, 330, 210, 24);

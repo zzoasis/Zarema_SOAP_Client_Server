@@ -81,7 +81,7 @@
     <Component class="javax.swing.JLabel" name="jLabelResult">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
-          <Font name="Times New Roman" size="20" style="1"/>
+          <Font name="Times New Roman" size="20" style="3"/>
         </Property>
         <Property name="text" type="java.lang.String" value="&#x41e;&#x442;&#x432;&#x435;&#x442;: y = "/>
       </Properties>
